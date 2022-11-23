@@ -3,8 +3,8 @@ import SmallCard from "./card-small";
 
 export default function ContentBody() {
   return (
-    <section class="content">
-      <div class="container-fluid">
+    <section className="content">
+      <div className="container-fluid">
         <div className="row">
           <div className="col-lg-3 col-6">
             <SmallCard title={'150'} caption={'New Orders'} icon={'ion-bag'} background={'bg-primary'} />
