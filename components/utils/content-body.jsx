@@ -12,10 +12,10 @@ export default function ContentBody() {
         </div>
         <div className="row">
           <section className="col-lg-7 connectedSortable ui-sortable">
-            <Card />
+            {/* <Card /> */}
           </section>
           <section className="col-lg-5 connectedSortable ui-sortable">
-            <Card />
+            {/* <Card /> */}
           </section>
         </div>
       </div>
